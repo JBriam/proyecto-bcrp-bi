@@ -1,0 +1,10 @@
+kpi_id,kpi_name,series_code,calculation_hint,format_string,theme,priority
+KPI_01,Inflacion interanual,PN01273PM,ultimo valor disponible,0.00%;-0.00%;0.00%,Inflacion,alta
+KPI_02,Tipo de cambio diario,PD04637PD,ultimo valor disponible,0.000,Tipo de cambio,alta
+KPI_03,Tasa de referencia,PD04722MM,ultimo valor disponible,0.00%;-0.00%;0.00%,Politica monetaria,alta
+KPI_04,PBI variacion interanual,PN01728AM,ultimo valor disponible,0.00%;-0.00%;0.00%,Actividad,alta
+KPI_05,Tasa de desempleo,PN38063GM,ultimo valor disponible,0.00%;-0.00%;0.00%,Empleo,alta
+KPI_06,Balanza comercial FOB,PN38723BM,ultimo valor disponible,"#,##0.0",Sector externo,alta
+KPI_07,Exportaciones FOB,PN38714BM,ultimo valor disponible,"#,##0.0",Sector externo,alta
+KPI_08,Importaciones FOB,PN38718BM,ultimo valor disponible,"#,##0.0",Sector externo,alta
+KPI_09,Terminos de intercambio,PN38726BM,ultimo valor disponible,0.00%;-0.00%;0.00%,Sector externo,media

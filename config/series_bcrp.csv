@@ -1,0 +1,23 @@
+series_code,series_name,frequency,unit,theme,priority
+PN01271PM,Inflacion mensual Lima Metropolitana,mensual,%,Inflacion,alta
+PN01272PM,Inflacion acumulada anual Lima Metropolitana,mensual,%,Inflacion,alta
+PN01273PM,Inflacion interanual Lima Metropolitana,mensual,%,Inflacion,alta
+PN01296PM,Inflacion subyacente bienes,mensual,%,Inflacion,media
+PN01308PM,Inflacion no subyacente alimentos,mensual,%,Inflacion,media
+PD04637PD,Tipo de cambio diario (bancario),diaria,S/ por USD,Tipo de cambio,alta
+PN01205PM,Tipo de cambio promedio mensual,mensual,S/ por USD,Tipo de cambio,alta
+PN01214PM,Tipo de cambio fin de periodo,mensual,S/ por USD,Tipo de cambio,media
+PD04722MM,Tasa de referencia BCRP,mensual,%,Politica monetaria,alta
+PD04723MM,Tasa creditos de regulacion monetaria,mensual,%,Politica monetaria,media
+PD04724MM,Tasa depositos overnight,mensual,%,Politica monetaria,media
+PN01770AM,PBI indice mensual,mensual,indice (base 2007=100),Actividad,alta
+PN01728AM,PBI variacion interanual,mensual,%,Actividad,alta
+PN01731AM,PBI desestacionalizado var mensual,mensual,%,Actividad,media
+PN38063GM,Tasa de desempleo Lima Metropolitana,mensual,%,Empleo,alta
+PN38050GM,PEA Lima Metropolitana,mensual,miles de personas,Empleo,media
+PN31879GM,Puestos de trabajo formales,mensual,miles de puestos,Empleo,alta
+PN31883GM,Ingreso promedio formal nominal,mensual,S/,Empleo,media
+PN38714BM,Exportaciones FOB,mensual,millones US$,Sector externo,alta
+PN38718BM,Importaciones FOB,mensual,millones US$,Sector externo,alta
+PN38723BM,Balanza comercial FOB,mensual,millones US$,Sector externo,alta
+PN38726BM,Terminos de intercambio,mensual,variacion %,Sector externo,media
