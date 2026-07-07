@@ -1,16 +1,16 @@
 {
   "source": "BCRP",
-  "generated_at": "2026-05-11T21:37:29Z",
+  "generated_at": "2026-07-06T01:31:36Z",
   "series_summary": [
     {
       "series_code": "PD04637PD",
       "series_name": "Tipo de cambio diario (bancario)",
       "theme": "Tipo de cambio",
       "unit": "S/ por USD",
-      "last_date": "2026-05-08",
-      "last_value": 3.438,
-      "mom_pct": -0.005701536936044915,
-      "yoy_pct": 0.0006236746912819946,
+      "last_date": "2026-07-02",
+      "last_value": 3.40342857142857,
+      "mom_pct": -0.27209175771291116,
+      "yoy_pct": 0.6676244401251141,
       "trend": "al_alza"
     },
     {
@@ -18,10 +18,10 @@
       "series_name": "Tasa de referencia BCRP",
       "theme": "Politica monetaria",
       "unit": "%",
-      "last_date": "2026-04-01",
+      "last_date": "2026-06-01",
       "last_value": 4.25,
       "mom_pct": 0.0,
-      "yoy_pct": -0.10526315789473684,
+      "yoy_pct": -5.555555555555558,
       "trend": "a_la_baja"
     },
     {
@@ -29,10 +29,10 @@
       "series_name": "Tasa creditos de regulacion monetaria",
       "theme": "Politica monetaria",
       "unit": "%",
-      "last_date": "2026-04-01",
+      "last_date": "2026-06-01",
       "last_value": 4.75,
       "mom_pct": 0.0,
-      "yoy_pct": -0.09523809523809523,
+      "yoy_pct": -5.000000000000004,
       "trend": "a_la_baja"
     },
     {
@@ -40,10 +40,10 @@
       "series_name": "Tasa depositos overnight",
       "theme": "Politica monetaria",
       "unit": "%",
-      "last_date": "2026-04-01",
+      "last_date": "2026-06-01",
       "last_value": 2.25,
       "mom_pct": 0.0,
-      "yoy_pct": -0.18181818181818177,
+      "yoy_pct": -9.999999999999998,
       "trend": "a_la_baja"
     },
     {
@@ -51,10 +51,10 @@
       "series_name": "Tipo de cambio promedio mensual",
       "theme": "Tipo de cambio",
       "unit": "S/ por USD",
-      "last_date": "2026-04-01",
-      "last_value": 3.436205,
-      "mom_pct": -0.0023199770892544658,
-      "yoy_pct": -0.07075723628968689,
+      "last_date": "2026-06-01",
+      "last_value": 3.40216666666667,
+      "mom_pct": -0.8860196509136053,
+      "yoy_pct": -5.503245099945275,
       "trend": "a_la_baja"
     },
     {
@@ -62,10 +62,10 @@
       "series_name": "Tipo de cambio fin de periodo",
       "theme": "Tipo de cambio",
       "unit": "S/ por USD",
-      "last_date": "2026-04-01",
-      "last_value": 3.5137,
-      "mom_pct": 0.007772615155165363,
-      "yoy_pct": -0.043162137138500145,
+      "last_date": "2026-06-01",
+      "last_value": 3.4088,
+      "mom_pct": -0.12013243868851387,
+      "yoy_pct": -3.6572268385054563,
       "trend": "a_la_baja"
     },
     {
@@ -73,10 +73,10 @@
       "series_name": "Inflacion mensual Lima Metropolitana",
       "theme": "Inflacion",
       "unit": "%",
-      "last_date": "2026-04-01",
-      "last_value": 0.5206244057768,
-      "mom_pct": -0.7811301038988329,
-      "yoy_pct": 0.6368422025604532,
+      "last_date": "2026-06-01",
+      "last_value": 0.228762258659176,
+      "mom_pct": -241.82713665331025,
+      "yoy_pct": 77.77657129076778,
       "trend": "al_alza"
     },
     {
@@ -84,10 +84,10 @@
       "series_name": "Inflacion acumulada anual Lima Metropolitana",
       "theme": "Inflacion",
       "unit": "%",
-      "last_date": "2026-04-01",
-      "last_value": 3.72476378450595,
-      "mom_pct": 0.16853712378475305,
-      "yoy_pct": 2.0371770904154434,
+      "last_date": "2026-06-01",
+      "last_value": 3.79435971643399,
+      "mom_pct": 6.659257654854045,
+      "yoy_pct": 192.00701671007593,
       "trend": "al_alza"
     },
     {
@@ -95,10 +95,10 @@
       "series_name": "Inflacion interanual Lima Metropolitana",
       "theme": "Inflacion",
       "unit": "%",
-      "last_date": "2026-04-01",
-      "last_value": 4.01414363472928,
-      "mom_pct": 0.055091417509516516,
-      "yoy_pct": 1.4301131908172082,
+      "last_date": "2026-06-01",
+      "last_value": 4.00890965651766,
+      "mom_pct": 2.6595609865793346,
+      "yoy_pct": 136.69411617872288,
       "trend": "al_alza"
     },
     {
@@ -106,10 +106,10 @@
       "series_name": "Inflacion subyacente bienes",
       "theme": "Inflacion",
       "unit": "%",
-      "last_date": "2026-04-01",
-      "last_value": 0.15772887917975,
-      "mom_pct": -0.45898351351879985,
-      "yoy_pct": -0.0874492895323834,
+      "last_date": "2026-06-01",
+      "last_value": 0.11813829015233,
+      "mom_pct": -32.028570507858966,
+      "yoy_pct": -49.54491320610433,
       "trend": "a_la_baja"
     },
     {
@@ -117,21 +117,21 @@
       "series_name": "Inflacion no subyacente alimentos",
       "theme": "Inflacion",
       "unit": "%",
-      "last_date": "2026-04-01",
-      "last_value": -0.528405221806838,
-      "mom_pct": -1.1037413987442621,
-      "yoy_pct": -1.3987970840162383,
-      "trend": "a_la_baja"
+      "last_date": "2026-06-01",
+      "last_value": 1.04694298207787,
+      "mom_pct": -134.02737030039037,
+      "yoy_pct": 1100.3894213180506,
+      "trend": "al_alza"
     },
     {
       "series_code": "PN01728AM",
       "series_name": "PBI variacion interanual",
       "theme": "Actividad",
       "unit": "%",
-      "last_date": "2026-02-01",
-      "last_value": 3.67696084795806,
-      "mom_pct": 0.03890354889757197,
-      "yoy_pct": 0.25522244763508706,
+      "last_date": "2026-04-01",
+      "last_value": 3.72734991620123,
+      "mom_pct": 15.980865306284265,
+      "yoy_pct": 168.58002449990943,
       "trend": "al_alza"
     },
     {
@@ -139,21 +139,21 @@
       "series_name": "PBI desestacionalizado var mensual",
       "theme": "Actividad",
       "unit": "%",
-      "last_date": "2026-02-01",
-      "last_value": 0.199999999999718,
-      "mom_pct": -0.6000000000006792,
-      "yoy_pct": -0.28395097488591314,
-      "trend": "a_la_baja"
+      "last_date": "2026-04-01",
+      "last_value": 1.65211213137111,
+      "mom_pct": -228.92770697823786,
+      "yoy_pct": 91.39904043568608,
+      "trend": "al_alza"
     },
     {
       "series_code": "PN01770AM",
       "series_name": "PBI indice mensual",
       "theme": "Actividad",
       "unit": "indice (base 2007=100)",
-      "last_date": "2026-02-01",
-      "last_value": 179.270575480127,
-      "mom_pct": -0.013782754198571223,
-      "yoy_pct": 0.03676960847958055,
+      "last_date": "2026-04-01",
+      "last_value": 191.281757438811,
+      "mom_pct": 2.8228493986345526,
+      "yoy_pct": 3.727349916201228,
       "trend": "al_alza"
     },
     {
@@ -161,10 +161,10 @@
       "series_name": "Puestos de trabajo formales",
       "theme": "Empleo",
       "unit": "miles de puestos",
-      "last_date": "2026-02-01",
-      "last_value": 6099.688,
-      "mom_pct": -0.005541212154016706,
-      "yoy_pct": 0.04204472616397226,
+      "last_date": "2026-04-01",
+      "last_value": 6603.728,
+      "mom_pct": -1.1612830224939197,
+      "yoy_pct": 4.006821515746095,
       "trend": "al_alza"
     },
     {
@@ -172,10 +172,10 @@
       "series_name": "Ingreso promedio formal nominal",
       "theme": "Empleo",
       "unit": "S/",
-      "last_date": "2026-02-01",
-      "last_value": 3375.25390625,
-      "mom_pct": 0.042048750102885446,
-      "yoy_pct": 0.032051430874513454,
+      "last_date": "2026-04-01",
+      "last_value": 3350.83251953125,
+      "mom_pct": -26.243060135319297,
+      "yoy_pct": 5.5412134100990995,
       "trend": "al_alza"
     },
     {
@@ -183,10 +183,10 @@
       "series_name": "PEA Lima Metropolitana",
       "theme": "Empleo",
       "unit": "miles de personas",
-      "last_date": "2026-03-01",
-      "last_value": 6121.4,
-      "mom_pct": 0.002653016624190707,
-      "yoy_pct": 0.0497049434500767,
+      "last_date": "2026-05-01",
+      "last_value": 6188.0,
+      "mom_pct": 0.09543682567412226,
+      "yoy_pct": 5.987007843478853,
       "trend": "al_alza"
     },
     {
@@ -194,21 +194,21 @@
       "series_name": "Tasa de desempleo Lima Metropolitana",
       "theme": "Empleo",
       "unit": "%",
-      "last_date": "2026-03-01",
-      "last_value": 6.84320580259417,
-      "mom_pct": 0.07429622929969604,
-      "yoy_pct": 0.04394212949953502,
-      "trend": "al_alza"
+      "last_date": "2026-05-01",
+      "last_value": 4.97737556561086,
+      "mom_pct": -6.415348284176159,
+      "yoy_pct": -10.933864569893991,
+      "trend": "a_la_baja"
     },
     {
       "series_code": "PN38714BM",
       "series_name": "Exportaciones FOB",
       "theme": "Sector externo",
       "unit": "millones US$",
-      "last_date": "2026-02-01",
-      "last_value": 8988.33323443178,
-      "mom_pct": -0.08215532014271154,
-      "yoy_pct": 0.3824921679908222,
+      "last_date": "2026-04-01",
+      "last_value": 9329.20547667143,
+      "mom_pct": -6.208450779741382,
+      "yoy_pct": 51.12901695002263,
       "trend": "al_alza"
     },
     {
@@ -216,10 +216,10 @@
       "series_name": "Importaciones FOB",
       "theme": "Sector externo",
       "unit": "millones US$",
-      "last_date": "2026-02-01",
-      "last_value": 4799.33214909008,
-      "mom_pct": -0.08585627428767373,
-      "yoy_pct": 0.1330087003019591,
+      "last_date": "2026-04-01",
+      "last_value": 6025.02254545278,
+      "mom_pct": 4.059048772985352,
+      "yoy_pct": 34.048194491508866,
       "trend": "al_alza"
     },
     {
@@ -227,10 +227,10 @@
       "series_name": "Balanza comercial FOB",
       "theme": "Sector externo",
       "unit": "millones US$",
-      "last_date": "2026-02-01",
-      "last_value": 4189.00108534171,
-      "mom_pct": -0.0778781367192245,
-      "yoy_pct": 0.8489379901311003,
+      "last_date": "2026-04-01",
+      "last_value": 3304.18293121865,
+      "mom_pct": -20.51024688275538,
+      "yoy_pct": 96.87225699543902,
       "trend": "al_alza"
     },
     {
@@ -238,10 +238,10 @@
       "series_name": "Terminos de intercambio",
       "theme": "Sector externo",
       "unit": "variacion %",
-      "last_date": "2026-02-01",
-      "last_value": 36.2210817954039,
-      "mom_pct": -0.02887748033019144,
-      "yoy_pct": 1.0077513754245984,
+      "last_date": "2026-04-01",
+      "last_value": 20.8959337265631,
+      "mom_pct": -35.40912695322529,
+      "yoy_pct": 34.247753704955805,
       "trend": "al_alza"
     }
   ]
