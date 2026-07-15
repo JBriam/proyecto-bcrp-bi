@@ -7,13 +7,21 @@ from pathlib import Path
 import pandas as pd
 import resend
 from groq import Groq
+from dotenv import load_dotenv
+
+load_dotenv()
 
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
 INPUT_FILE = PROJECT_ROOT / "data/processed/bcrp_consolidado.parquet"
 OUTPUT_FILE = PROJECT_ROOT / "data/processed/boletin_input.json"
 
-# Configurar clientes con sus respectivas API Keys desde las variables de entorno
-client = Groq(api_key=os.environ.get("GROQ_API_KEY"))
+def _get_groq_client() -> Groq:
+    api_key = os.environ.get("GROQ_API_KEY")
+    if not api_key:
+        raise RuntimeError("No se configuró la variable de entorno GROQ_API_KEY.")
+    return Groq(api_key=api_key)
+
+
 resend.api_key = os.environ.get("RESEND_API_KEY")
 
 
@@ -32,6 +40,8 @@ def _trend_from_changes(mom: float | None, yoy: float | None) -> str:
 
 
 def generar_boletin(payload: dict) -> str:
+    client = _get_groq_client()
+
     system_prompt = """
 Eres un analista macroeconómico de Perú.
 
