@@ -10,9 +10,10 @@ from bcrp_client import (
     add_time_features,
     extract_series_metadata,
     fetch_bcrp_series,
-    filter_date_range,
+    filter_date_range, 
     parse_bcrp_json,
 )
+from build_boletin_input import build_boletin_input
 from config import PROJECT_ROOT, get_settings
 
 
@@ -107,3 +108,4 @@ def run_pipeline(start: date | None = None, end: date | None = None) -> None:
 
 if __name__ == "__main__":
     run_pipeline()
+    build_boletin_input()

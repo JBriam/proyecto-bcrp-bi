@@ -1,6 +1,6 @@
 # Umbrales y Semáforos - Dashboard Macro Perú
 
-## TABLA DE REFERENCIA RÁPIDA
+## TABLA DE REFERENCIA RÁPIDA 
 
 Usa esta tabla para configurar bandas de color, alertas y flags en Power BI.
 

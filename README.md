@@ -65,6 +65,11 @@ cp .env.example .env
 
 Si necesitas cambiar rutas o endpoint, edita `.env`.
 
+Para generar y enviar el boletín automático, agrega también:
+
+- `GROQ_API_KEY`
+- `RESEND_API_KEY`
+
 ## 6) Ejecutar pipeline
 
 Ejecuta los comandos desde la carpeta raiz del proyecto.
@@ -80,6 +85,7 @@ Salida esperada:
 - Consolidado en:
   - `data/processed/bcrp_consolidado.parquet`
   - `data/processed/bcrp_consolidado.csv`
+- Al finalizar, también se intenta generar el boletín y enviarlo por correo con Resend.
 
 ## 7) Generar insumo para boletin con IA
 

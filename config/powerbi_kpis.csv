@@ -8,3 +8,4 @@ KPI_06,Balanza comercial FOB,PN38723BM,ultimo valor disponible,"#,##0.0",Sector 
 KPI_07,Exportaciones FOB,PN38714BM,ultimo valor disponible,"#,##0.0",Sector externo,alta
 KPI_08,Importaciones FOB,PN38718BM,ultimo valor disponible,"#,##0.0",Sector externo,alta
 KPI_09,Terminos de intercambio,PN38726BM,ultimo valor disponible,0.00%;-0.00%;0.00%,Sector externo,media
+ 
